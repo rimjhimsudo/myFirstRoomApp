@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyRoomSampleApp</string>
+    <string name="person_name">Rimjhim Vaish</string>
+    <string name="email">rimjhimvaish@gmail.com</string>
+    <string name="number">9xxxxxxxxx</string>
+    <string name="pincode">110038</string>
+    <string name="city">Delhi</string>
+
+</resources>
